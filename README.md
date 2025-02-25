@@ -9,10 +9,13 @@
 
 # 使用言語
 
-githubにアップロードされたファイル群のうち、私がアップロードしたファイルの傾向です。
+githubにアップロードされたファイル群のうち、私がアップロードしたファイルの傾向です。HTMLは大量にあるので、HTML以外を表示しています。
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshimikan6490&theme=merko&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshimikan6490&theme=merko&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshimikan6490&theme=merko&locale=ja&langs_count=20&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoshimikan6490)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshimikan6490&theme=merko&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
 ---
 # discordのステータス (create from [here](https://discord.c99.nl/))
 ![discord](https://discord.c99.nl/widget/theme-4/728495196303523900.png)
