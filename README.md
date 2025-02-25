@@ -1,6 +1,18 @@
-# using languages
+# 私のスキル
+
+## よく使うもの
+[![My Skills](https://skillicons.dev/icons?i=discord,css,git,github,gmail,html,js,md,mongodb,nginx,nodejs,npm,replit,sentry,vscode,windows&theme=dark)](https://skillicons.dev)
+
+## 一度以上触ったことがあるもの
+[![My Skills](https://skillicons.dev/icons?i=docker,c,cloudflare,heroku,linux,ubuntu,unity,vim&theme=dark)](https://skillicons.dev)
+
+
+# 使用言語
+
+githubにアップロードされたファイル群のうち、私がアップロードしたファイルの傾向です。
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshimikan6490&theme=merko&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshimikan6490&theme=merko&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
 ---
-# discord status (create from [here](https://discord.c99.nl/))
+# discordのステータス (create from [here](https://discord.c99.nl/))
 ![discord](https://discord.c99.nl/widget/theme-4/728495196303523900.png)
