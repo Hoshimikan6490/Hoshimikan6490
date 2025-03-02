@@ -13,7 +13,7 @@ githubにアップロードされたファイル群のうち、私がアップ�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshimikan6490&theme=merko&locale=ja&langs_count=20&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoshimikan6490)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoshimikan6490&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshimikan6490&theme=merko&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
 ---
