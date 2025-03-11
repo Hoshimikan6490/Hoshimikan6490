@@ -18,4 +18,4 @@ githubにアップロードされたファイル群のうち、私がアップ�
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshimikan6490&theme=merko&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
 ---
 # discordのステータス (create from [here](https://discord.c99.nl/))
-![discord](https://discord.c99.nl/widget/theme-4/728495196303523900.png)
+![discord](https://discord.c99.nl/widget/theme-3/728495196303523900.png)
