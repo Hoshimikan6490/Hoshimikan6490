@@ -17,5 +17,18 @@ githubにアップロードされたファイル群のうち、私がアップ�
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshimikan6490&theme=merko&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
 ---
+
+# コントリビュート履歴(2025/07/29更新)
+- Discordの音楽BOT
+  - https://github.com/umutxyp/MusicBot/pull/114
+  - https://github.com/umutxyp/MusicBot/pull/117
+- vscodeの「デフォルトのアプリで開く」を追加するやつ(未マージ)
+  - https://github.com/sandcastle/vscode-open/pull/40
+- 非公式のスプラトゥーン3のステージ情報を一覧で確認できるWebサイト
+  - https://github.com/misenhower/splatoon3.ink/pull/86
+- 非公式の教育版マインクラフト向け教育者ツール
+  - https://github.com/ShapescapeMC/Educator-Tools/pull/6
+  - https://github.com/ShapescapeMC/Educator-Tools/pull/19
+
 # discordのステータス (create from [here](https://discord.c99.nl/))
 ![discord](https://discord.c99.nl/widget/theme-3/728495196303523900.png)
