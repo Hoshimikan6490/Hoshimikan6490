@@ -18,16 +18,21 @@ githubにアップロードされたファイル群のうち、私がアップ�
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshimikan6490&theme=merko&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-# コントリビュート履歴(2025/07/29更新)
-- Discordの音楽BOT
+# コントリビュート履歴(2025/08/14更新)
+- 教育版Minecraftのプログラミングシステムである「Makecode」のドキュメントの日本語化
+  - https://crowdin.com/project/makecode
+- Discordの音楽BOTの日本語化
   - https://github.com/umutxyp/MusicBot/pull/114
   - https://github.com/umutxyp/MusicBot/pull/117
-- vscodeの「デフォルトのアプリで開く」を追加するやつ(未マージ)
+- vscodeの「デフォルトのアプリで開く」を追加するやつの日本語化(未マージ)
   - https://github.com/sandcastle/vscode-open/pull/40
-- 非公式のスプラトゥーン3のステージ情報を一覧で確認できるWebサイト
-  - https://github.com/misenhower/splatoon3.ink/pull/86
-- 非公式の教育版マインクラフト向け教育者ツール
+- 非公式の教育版マインクラフト向け教育者ツールの日本語化
   - https://github.com/ShapescapeMC/Educator-Tools/pull/6
+- 非公式のスプラトゥーン3のステージ情報を一覧で確認できるWebサイトの日本語化
+  - https://github.com/misenhower/splatoon3.ink/pull/86
+- タスク管理ツール「Trello」の履歴などをDiscordに転送したり、Discordから操作するBOTの日本語化
+  - https://github.com/trello-talk/Translation
+- 非公式の教育版マインクラフト向け教育者ツールの日本語化
   - https://github.com/ShapescapeMC/Educator-Tools/pull/19
 
 # discordのステータス (create from [here](https://discord.c99.nl/))
