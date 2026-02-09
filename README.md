@@ -11,11 +11,11 @@
 
 githubにアップロードされたファイル群のうち、私がアップロードしたファイルの傾向です。HTMLは大量にあるので、HTML以外を表示しています。
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshimikan6490&theme=merko&locale=ja&langs_count=20&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=Hoshimikan6490&theme=merko&locale=ja&langs_count=20&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoshimikan6490&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-plus-theta.vercel.app/api/wakatime?username=hoshimikan6490&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshimikan6490&theme=merko&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-plus-theta.vercel.app/api?username=Hoshimikan6490&theme=merko&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 # コントリビュート履歴(2025/08/14更新)
